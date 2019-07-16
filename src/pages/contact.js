@@ -24,6 +24,11 @@ const ContactPage = () => {
         mauris posuere platea ornare senectus, ad curae luctus augue nibh taciti
         malesuada eget ac rutrum id class mollis dis.
       </p>
+      <p>
+        <a href="https://twitter.com/sergixnet" target="__blank">
+          @sergixnet
+        </a>
+      </p>
     </div>
   )
 }
